@@ -1,3 +1,3 @@
 # fMRI_processing
-All data retreived from the publically available YA-HCP.
-Was a small sample of 100 participants for the initial run, but exact data set can be sent upon request
+All data received from the publically available YA-HCP.
+This was a small sample of 100 participants for the initial run, but the exact data set can be sent upon request
